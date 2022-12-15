@@ -5,5 +5,5 @@
 Para rodar este pojetinho em sua máquina, faça o seguinte:
 
 ```
-Pegue uma cerveja e fique olhando até funcionar
+Pegue uma cerveja, deguste-a, e fique olhando até funcionar
 ```
